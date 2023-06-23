@@ -1,0 +1,129 @@
+p{
+  font-family: Roboto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.video-title{
+  font-weight: bold;
+  font-size: 30px;
+  width: 500px;
+  line-height: 40px;
+  margin-bottom: 5px;
+}
+
+.video-stats{
+  font-size: 14px;
+  color: rgb(96,96,96);
+  margin-bottom: 20px;
+}
+
+.video-author{
+  color: rgb(96,96,96);
+  font-size: 14px;
+  margin-bottom: 20px;
+
+}
+
+.video-description{
+  color: rgb(96,96,96);
+  font-size: 14px;
+  width: 300px;
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+
+.Apple-text{
+  background-color: rgb(227,65,64);
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.text-underline{
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.text-underline:hover{
+  text-decoration: underline;
+}
+
+.bai-tap{
+  text-align: center;
+}
+
+.Tahoma{
+  font-family: Tahoma;
+  font-weight: bold;
+}
+
+.Arial{
+  font-weight: bold;
+  width: 200px;
+  line-height: 20px;
+
+}
+
+.text-italic{
+  color: red;
+  font-style: italic;
+  font-size: 14px;
+}
+
+.Text-head{
+  font-family: Verdana;
+  font-weight: bold;
+}
+
+.text-begginer{
+  font-family: Verdana;
+  font-size: 14px;
+  color: rgb(69,69,69);
+}
+
+.Long-text{
+  font-family: Verdana;
+  width: 300px;
+  line-height: 20px;
+}
+
+.Get-button{
+  background-color: green;
+  border: none;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.text-shopping{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.text-see{
+  font-family: Arial;
+  font-size: 12px;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.text-learn{
+  font-family: Arial;
+  font-size: 12px;
+  text-align: center;
+  color: blue;
+  margin-bottom: 100px;
+}
+
+.text-learn:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
